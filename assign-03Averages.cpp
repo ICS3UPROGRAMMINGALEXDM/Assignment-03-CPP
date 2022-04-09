@@ -5,7 +5,7 @@
 // Description: Calculates the average of three numbers inputted by the user
 #include <cstdio>
 #include <iostream>
-#include "/Assignment-03-CPP/colors.h"
+#include "colors.h"
 using std::cout;
 using std::cin;
 using std::endl;
